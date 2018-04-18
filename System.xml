@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<System>
+	
+	<Topic name="">
+		<Publishers>
+			<Client name="" topicClassPath=""/>
+			<Client name="" topicClassPath=""/>
+		</Publishers>
+		<Subscribers>
+			<Client name="" topicClassPath=""/>
+			<Client name="" topicClassPath=""/>
+		</Subscribers>
+	</Topic>
+	<Topic name="">
+		<Publishers>
+			<Client name="" topicClassPath=""/>
+			<Client name="" topicClassPath=""/>
+		</Publishers>
+		<Subscribers>
+			<Client name="" topicClassPath=""/>
+			<Client name="" topicClassPath=""/>
+		</Subscribers>
+	</Topic>
+</System>
