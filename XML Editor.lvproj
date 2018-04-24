@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -10,11 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Attribute.ctl" Type="VI" URL="../Controls/Attribute.ctl"/>
-			<Item Name="Node Type.ctl" Type="VI" URL="../Controls/Node Type.ctl"/>
-		</Item>
-		<Item Name="Subvis" Type="Folder"/>
 		<Item Name="System" Type="Folder">
 			<Item Name="Classes" Type="Folder">
 				<Item Name="Broker_class" Type="Folder">
@@ -35,6 +31,22 @@
 			</Item>
 			<Item Name="Utilities" Type="Folder"/>
 		</Item>
+		<Item Name="Client Child Classes" Type="Folder">
+			<Item Name="Types" Type="Folder">
+				<Item Name="GUI Class" Type="Folder">
+					<Item Name="GUI.lvclass" Type="LVClass" URL="../Client Child Classes/Types/GUI Class/GUI.lvclass"/>
+				</Item>
+				<Item Name="Simple Client with Async Process" Type="Folder">
+					<Item Name="Simple Client with Async Process.lvclass" Type="LVClass" URL="../Client Child Classes/Types/Simple Client with Async Process/Simple Client with Async Process.lvclass"/>
+				</Item>
+			</Item>
+		</Item>
+		<Item Name="Topic Child Classes" Type="Folder"/>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Attribute.ctl" Type="VI" URL="../Controls/Attribute.ctl"/>
+			<Item Name="Node Type.ctl" Type="VI" URL="../Controls/Node Type.ctl"/>
+		</Item>
+		<Item Name="Subvis" Type="Folder"/>
 		<Item Name="Client Processing Loop Sandbox.vi" Type="VI" URL="../Subvis/Client Processing Loop Sandbox.vi"/>
 		<Item Name="Element.lvclass" Type="LVClass" URL="../Classes/Element_class/Element.lvclass"/>
 		<Item Name="Node.lvclass" Type="LVClass" URL="../Classes/Node_class/Node.lvclass"/>
