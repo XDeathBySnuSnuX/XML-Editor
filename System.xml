@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<System>
-	
-	<Topic name="">
-		<Publishers>
-			<Client name="" topicClassPath=""/>
-			<Client name="" topicClassPath=""/>
-		</Publishers>
-		<Subscribers>
-			<Client name="" topicClassPath=""/>
-			<Client name="" topicClassPath=""/>
-		</Subscribers>
-	</Topic>
-	<Topic name="">
-		<Publishers>
-			<Client name="" topicClassPath=""/>
-			<Client name="" topicClassPath=""/>
-		</Publishers>
-		<Subscribers>
-			<Client name="" topicClassPath=""/>
-			<Client name="" topicClassPath=""/>
-		</Subscribers>
-	</Topic>
+
+<System>	
+	<Clients>
+		<Client Name="Client1" Path="Path1" InitializationData="Data1"/>
+		<Client Name="Client2" Path="Path2" InitializationData="Data2"/>
+	</Clients>
+	<Topics>
+		<Topic Name="" Path="" Subscribers=""/>
+		<Topic Name="" Path="" Subscribers=""/>
+		<Topic Name="" Path="" Subscribers=""/>
+	</Topics>
+	<StartupClients Names="client1,client2,client3"/>
 </System>

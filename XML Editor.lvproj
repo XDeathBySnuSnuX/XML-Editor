@@ -52,14 +52,18 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Attribute.ctl" Type="VI" URL="../Controls/Attribute.ctl"/>
 			<Item Name="Node Type.ctl" Type="VI" URL="../Controls/Node Type.ctl"/>
+			<Item Name="Config Data.ctl" Type="VI" URL="../Controls/Config Data.ctl"/>
+			<Item Name="Client Ref.ctl" Type="VI" URL="../Controls/Client Ref.ctl"/>
+			<Item Name="Topic Ref.ctl" Type="VI" URL="../Controls/Topic Ref.ctl"/>
 		</Item>
 		<Item Name="Subvis" Type="Folder"/>
-		<Item Name="Client Processing Loop Sandbox.vi" Type="VI" URL="../Subvis/Client Processing Loop Sandbox.vi"/>
 		<Item Name="Element.lvclass" Type="LVClass" URL="../Classes/Element_class/Element.lvclass"/>
 		<Item Name="Node.lvclass" Type="LVClass" URL="../Classes/Node_class/Node.lvclass"/>
 		<Item Name="Remove Duplicates from 1D String Array.vi" Type="VI" URL="../Architecture/Utilities/Remove Duplicates from 1D String Array.vi"/>
+		<Item Name="Client Processing Loop Sandbox.vi" Type="VI" URL="../Subvis/Client Processing Loop Sandbox.vi"/>
 		<Item Name="Sandbox.vi" Type="VI" URL="../Subvis/Sandbox.vi"/>
 		<Item Name="Sandbox2.vi" Type="VI" URL="../Sandbox2.vi"/>
+		<Item Name="Sandbox3.vi" Type="VI" URL="../Sandbox3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -69,6 +73,7 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
