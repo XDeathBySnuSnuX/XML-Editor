@@ -81,6 +81,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 		</Item>
 	</Item>
+	<Item Name="Create General Topic.vi" Type="VI" URL="../Create General Topic.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$N!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#*!=!!?!!!0$62P='FD,GRW9WRB=X-!#62P='FD)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!#E"4"%2B&gt;'%!!!Z!-0````]%4G&amp;N:1!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!1$!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!##!!!!!!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="Subscribe Client.vi" Type="VI" URL="../Subscribe Client.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%(!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#*!=!!?!!!0$62P='FD,GRW9WRB=X-!#62P='FD)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!%%!Q`````Q:$&lt;'FF&lt;H1!!#*!=!!?!!!0$62P='FD,GRW9WRB=X-!#&amp;2P='FD)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!))!!!!EA!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

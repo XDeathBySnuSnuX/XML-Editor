@@ -2,6 +2,7 @@
 <System>
 	<T1 A_1__1="AV1" A_1__2="BV2" A_1__3="AV3">
 		<!--This is a comment-->
+		#This is another type of comment
 		<T1_1>
 			<T1_1_1 A_1_1_1__1="3" A_1_1_1__2="1"/>
 			<T1_1_2 A_1_1_2__1="A" A_1_1_2__2="B"/>
