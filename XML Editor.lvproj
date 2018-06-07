@@ -70,6 +70,9 @@
 			<Item Name="Filter Attribute Value Listbox and Buttons.ctl" Type="VI" URL="../Controls/Filter Attribute Value Listbox and Buttons.ctl"/>
 			<Item Name="Filter Attribute Name Listbox and Buttons.ctl" Type="VI" URL="../Controls/Filter Attribute Name Listbox and Buttons.ctl"/>
 			<Item Name="Filter Element Name Listbox and Buttons.ctl" Type="VI" URL="../Controls/Filter Element Name Listbox and Buttons.ctl"/>
+			<Item Name="Filter.ctl" Type="VI" URL="../Controls/Filter.ctl"/>
+			<Item Name="Filter Group.ctl" Type="VI" URL="../Controls/Filter Group.ctl"/>
+			<Item Name="Filter Type.ctl" Type="VI" URL="../Controls/Filter Type.ctl"/>
 		</Item>
 		<Item Name="Subvis" Type="Folder"/>
 		<Item Name="XML Editor GUI.lvclass" Type="LVClass" URL="../Classes/XML Editor GUI_class/XML Editor GUI.lvclass"/>
@@ -84,7 +87,6 @@
 		<Item Name="Sandbox2.vi" Type="VI" URL="../Sandbox2.vi"/>
 		<Item Name="Sandbox3.vi" Type="VI" URL="../Sandbox3.vi"/>
 		<Item Name="Sandbox4.vi" Type="VI" URL="../Sandbox4.vi"/>
-		<Item Name="Filter Group.ctl" Type="VI" URL="../Controls/Filter Group.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

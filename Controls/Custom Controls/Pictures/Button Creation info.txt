@@ -1,0 +1,11 @@
+Buttons were custom controls
+
+Transparent Backgrounds made at:
+https://www110.lunapic.com/editor/?action=transparent
+
+Once pics have transparent backgrounds, create a silver boolean blank button.
+Make it a type-def and open it.
+Change it from a Type def to a Control
+Edit/Import Picture to Clipboard
+R-Click button, Import Picture from Clipboard/Decal
+Adjust picture size and place over button
